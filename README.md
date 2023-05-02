@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/callumr97/CO2_Data_Dashboard/master?urlpath=/panel/CO2_Data_Dashboard)
+
 
 
 # Global CO2 and Greenhouse Gas Data Dashboard
