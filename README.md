@@ -1,6 +1,3 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/callumr97/Data_Dashboard/main?urlpath=/panel/CO2_Data_Dashboard)
-
-
 # Global CO2 and Greenhouse Gas Data Dashboard
 
 This data dashboard was created using data collected and processed by *Our World in Data* [(original data)](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions). This includes 207 country profiles covering a wide range of emissions metrics including total co2 emissions, emissions by energy source and cumulative co2 emissions through time. Additional mapping data comes from the *Natural Earth* low resolution dataset.
