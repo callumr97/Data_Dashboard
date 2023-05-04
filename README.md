@@ -10,11 +10,11 @@ This was created using a dashboarding package in Python called Panel, Hvplot for
 
 If you would like to learn more about the source data and the team behind this database click [here](https://ourworldindata.org/co2-emissions), the data can also be found directly [here](https://github.com/owid/co2-data) and is distributed with an Creative Commons BY License meaning that you have permission to use, distribute and reproduce the data provided the source and authors are credited.
 
-The notebook can be found here - [notebook](https://github.com/callumr97/CO2_Data_Dashboard/blob/master/CO2_Data_Dashboard.ipynb)
+[The notebook can be found here](https://github.com/callumr97/CO2_Data_Dashboard/blob/master/CO2_Data_Dashboard.ipynb)
 
-The data can be found here - [data](https://github.com/callumr97/CO2_Data_Dashboard/blob/master/owid_co2_data.csv)
+[The data can be found here](https://github.com/callumr97/CO2_Data_Dashboard/blob/master/owid_co2_data.csv)
 
-The original *Our World in Data* data can be found here - [original data](https://github.com/owid/co2-data)
+[The original *Our World in Data* data can be found here](https://github.com/owid/co2-data)
 
 
 ![My Image](CO2_Dashboard.png)
