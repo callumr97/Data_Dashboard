@@ -3,7 +3,7 @@
 
 # Global CO2 and Greenhouse Gas Data Dashboard
 
-This data dashboard was created using data collected and processed by *Our World in Data* [(original data)](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions). This includes 207 country profiles covering a wide range of emissions metrics including total co2 emissions, emissions by energy source and cumulative co2 emissions through time. Additional mapping data comes from the *Natural Earth* low resolution dataset. To launch the app directly use the binder link (you might need to zoom out).
+This data dashboard was created using data collected and processed by *Our World in Data* [(original data)](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions). This includes 207 country profiles covering a wide range of emissions metrics including total co2 emissions, emissions by energy source and cumulative co2 emissions through time. Additional mapping data comes from the *Natural Earth* low resolution dataset.
 
 I have used this data to create an interactive data dashboard describing co2 profiles by continent and country alongside plots describing co2 emissions by energy source. 
 This was created using a dashboarding package in Python called Panel, Hvplot for plot visualisations and Folium for the map plot. Interactivity is a key component of a dashboard so I have included widgets for controlling the plot views and have included tool tips within the plots.
